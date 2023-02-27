@@ -1,0 +1,21 @@
+#intro {
+  background-color: #1c1158;
+  padding: 40px;
+  padding-top: 120px;
+  text-align: center;
+}
+
+.intro__greeting {
+  font-size: 30px;
+  font-weight: bold;
+  color: aqua;
+}
+
+input {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  border-color: aquamarine;
+  border-radius: 10%;
+  border-width: 3px;
+}
