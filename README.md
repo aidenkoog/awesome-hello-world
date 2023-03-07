@@ -13,6 +13,7 @@
 - 2023/03/01: Added PHP's hello world code.
 - 2023/03/03: Added QT's hello world code.
 - 2023/03/06: Added node.js + express's hello world code.
+- 2023/03/07: Added pure HTML's Hello world code.
 
 #### Link:
 
