@@ -1,4 +1,4 @@
-### Hello-Worlder
+### Awesome hello world collection
 
 - Project that outputs a Hello World string using all currently available languages.
   - Show **"Hello World! AidenKooG!"** message.
