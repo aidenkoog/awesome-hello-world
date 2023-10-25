@@ -4,7 +4,7 @@
   - Show **"Hello World! AidenKooG!"** message.
 
 ### Development
-2023. 10 ~ till die
+- 2023/10 ~ till die
 
 #### Release Note
 
