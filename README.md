@@ -1,11 +1,10 @@
-# Notice
-- As of October 18, 2023, this repository will no longer be maintained.
-- From now on, only repositories with the awesome prefix will be managed.
-
 ### Awesome hello world collection
 
 - Project that outputs a "Hello World AidenKooG"string using all currently available languages.
   - Show **"Hello World! AidenKooG!"** message.
+
+### Development
+2023. 10 ~ till die
 
 #### Release Note
 
