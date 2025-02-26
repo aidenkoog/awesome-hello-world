@@ -18,6 +18,7 @@
 - 2023/03/06: Added node.js + express's hello world code.
 - 2023/03/07: Added pure HTML's Hello world code.
 - 2025/02/26: Add Ruby hello world code
+- 2025/02/26: Add Fortran & Cobol Hello world code.
 
 #### Link:
 
