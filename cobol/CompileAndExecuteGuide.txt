@@ -1,0 +1,3 @@
+brew install gnu-cobol
+cobc -x HelloWorldAidenKooG.cob
+./HelloWorldAidenKooG
