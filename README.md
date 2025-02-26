@@ -1,7 +1,3 @@
-## Notice
-
-- This repository will no longer be maintained as of February 10th.
-
 ### Awesome hello world collection
 
 - Project that outputs a "Hello World AidenKooG"string using all currently available languages.
